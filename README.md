@@ -9,12 +9,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL ](https://github.com/meysamminoo/ip-address-tracker)
+- Live Site URL: [Live site URL ](https://your-live-site-url.com)
 
 - Semantic HTML5 markup
 - CSS custom properties
